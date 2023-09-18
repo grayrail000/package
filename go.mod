@@ -1,4 +1,3 @@
-module github.com/grayrail000/package
-
+module package
 
 go 1.20
